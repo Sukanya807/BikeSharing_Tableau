@@ -29,6 +29,7 @@ Then, date time column was converted from int64 to datetime
 
 Tableau Public was used to analyze the data and create visualizations.
 
+1. Gender Breakdown
 ![](images/gender_breakdown.png)
 
 
