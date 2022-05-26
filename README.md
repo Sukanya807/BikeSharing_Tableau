@@ -47,8 +47,19 @@ Tableau Public was used to analyze the data and create visualizations.
 ##### User Checkout Times
 
 ![](images/checkout_times.png)
+
 - Most users, irrespective of gender, ride short distances
 - They are most likely to checkout between 4 to 8 minutes
+
+##### Trips by Gender
+
+![](images/trips_by_gender.png)
+
+- Majority of the users are MALES
+- Maximum demand for bikes are on weekdays
+- Thursday evenings are the busiest
+- Trend shows users riding bikes to work on weekdays and riding for leisure on weekend afternoons
+
 
 
 
