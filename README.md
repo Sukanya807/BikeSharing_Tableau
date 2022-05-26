@@ -2,7 +2,7 @@
 
 ## Overview & Purpose
 
-The purpose of this analysis is to create visualizations on Tableau using worksheets, dashboards and stories with Citibike bike-sharing data ((August,2019) in New York City to convince investors that a similar bike-sharing service in Des Moines can be a viable business opportunity.
+The purpose of this analysis is to create visualizations on Tableau using worksheets, dashboards and stories with Citibike bike-sharing data ((August,2019) in New York City to convince investors that a similar bike-sharing service in Des Moines can be a viable business opportunity. Please view the Tableau Story [here](https://public.tableau.com/app/profile/sukanya.ghosh3003/viz/Module_Challenge_16534889152630/NYCCitibikeStory?publish=yes).
 
 ## Tools Used
 - Tableau Public
@@ -65,7 +65,18 @@ Tableau Public was used to analyze the data and create visualizations.
 ![](images/user_types.png)
 
 - Most users are MALES as indicated above
-- Most users are 'Annual Subscribers' rather than 'Customers' .
+- Most users are 'Annual Subscribers' rather than 'Customers' 
+
+## Summary
+
+The New York city bike sharing data analysis shows that opening up a similar business in Des Moines is a viable business opportunity. The bike sharing services have high demand (especially in summer), they are mostly used by men as a mode of transportation to travel to and from their workplace on weekdays, and most of the users are long term subscribers.
+
+The additional visualizations for future analysis might include -
+
+- The average frequency of servicing required on the bikes to get an estimate of the service costs
+- Performance of the bike-sharing services in the other months(especially winter months) to calculate overall profitability
+
+
 
 
 
