@@ -11,9 +11,17 @@ The purpose of this analysis is to create visualizations on Tableau using worksh
 
 ## Results
 
+#### Python
+
 The original Citi Bike data includes a "tripduration" column with datatype int64. Before analyzing the data on Tableau, a DataFrame was created using the Pandas library on Python and the datatype of the "tripduration" column was changed from int64 to datetime format.
 
+First, the file was opened as a DataFrame using Pandas
+
 ![df](images/pandas_df.png)
+
+Then, date time column was converted from int64 to datetime
+
+![](images/date_time_code.png)
 
 ![datetime](images/date_time.png)
 
