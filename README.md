@@ -25,6 +25,12 @@ Then, date time column was converted from int64 to datetime
 
 ![datetime](images/date_time.png)
 
-Then Tableau Public has been used to analyze the data and create powerful visualizations.
+#### Tableau Public
+
+Tableau Public was used to analyze the data and create visualizations.
+
+![](images/gender_breakdown.png)
+
+
 
 
