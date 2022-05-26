@@ -65,7 +65,7 @@ Tableau Public was used to analyze the data and create visualizations.
 ![](images/user_types.png)
 
 - Most users are MALES as indicated above
-- Most users are 'Annual Subscribers' rather than 'Customers' 
+- Most users are 'Annual Subscribers' rather than 'Customers' .
 
 
 
