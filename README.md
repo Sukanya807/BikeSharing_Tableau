@@ -60,6 +60,14 @@ Tableau Public was used to analyze the data and create visualizations.
 - Thursday evenings are the busiest
 - Trend shows users riding bikes to work on weekdays and riding for leisure on weekend afternoons
 
+##### Types of Users
+
+![](images/user_types.png)
+
+- Most users are MALES as indicated above
+- Most users are 'Annual Subscribers' rather than 'Customers' 
+
+
 
 
 
