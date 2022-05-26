@@ -2,7 +2,7 @@
 
 ## Overview & Purpose
 
-The purpose of this analysis is to create visualizations on Tableau using worksheets, dashboards and stories with Citibike bike-sharing data in New York City to convince investors that a similar bike-sharing service in Des Moines can be a viable business opportunity.
+The purpose of this analysis is to create visualizations on Tableau using worksheets, dashboards and stories with Citibike bike-sharing data ((August,2019) in New York City to convince investors that a similar bike-sharing service in Des Moines can be a viable business opportunity.
 
 ## Tools Used
 - Tableau Public
@@ -29,8 +29,26 @@ Then, date time column was converted from int64 to datetime
 
 Tableau Public was used to analyze the data and create visualizations.
 
-1. Gender Breakdown
+##### Gender Breakdown
 ![](images/gender_breakdown.png)
+
+- The total number of Citi Bike bike sharing users in New York City is 2,344,334
+- 65.2% of the users are MALE
+- 25.1% of the users are FEMALE
+- 9.6% user gender remains unknown
+
+##### August Peak Riding Hours
+
+![](images/peak_hours.png)
+
+- Peak riding hours are between 4 p.m and 7 p.m in the evenings and 8 a.m to 9 a.m in the mornings
+- Most suitable time for bike servicing is between midnight and 6 a.m
+
+##### User Checkout Times
+
+![](images/checkout_times.png)
+- Most users, irrespective of gender, ride short distances
+- They are most likely to checkout between 4 to 8 minutes
 
 
 
