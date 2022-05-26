@@ -76,7 +76,8 @@ The additional visualizations for future analysis might include -
 - The average frequency of servicing required on the bikes to get an estimate of the service costs
 - Performance of the bike-sharing services in the other months(especially winter months) to calculate overall profitability
 
-##Additional
+## Additional
+
 [Tableau Module Practice](https://public.tableau.com/app/profile/sukanya.ghosh3003/viz/Module_Practice/NYCStory)
 
 
